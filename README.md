@@ -123,7 +123,10 @@ EcommerceProAPI/
 
 Here’s a snapshot of the available API routes:
 
-![Swagger Endpoints](./assets/Screenshot%202025-06-29%20002317.png)
+## 📸 Swagger UI Preview
+
+![Swagger UI](assets/swagger-endpoints.png)
+
 
 ---
 
