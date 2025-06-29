@@ -124,6 +124,8 @@ EcommerceProAPI/
 - JWT tokens for secure authentication
 - Role-based authorization
 - Stripe keys stored securely in configuration
+- ![Swagger Endpoints](./assets/Screenshot%202025-06-29%20002317.png)
+
 
 ---
 
